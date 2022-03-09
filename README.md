@@ -1,4 +1,12 @@
-<h1 align = "center" > Projeto Spring Boot </h1>
+
+    <style>
+        h1{
+            text-align: center;
+        }
+    </style>
+
+
+<h1> Projeto Spring Boot </h1>
 
 <h2> Biblioteca </h1>
 
